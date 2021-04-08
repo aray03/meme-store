@@ -1,0 +1,52 @@
+body {
+    background-color: lightslategray;
+    color: maroon;
+    margin: 30px;
+    background-image: url(https://wallpaperaccess.com/full/1271967.jpg);
+    background-size: 100%;
+    
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: orange;
+    
+    padding: 10px;
+    width: 100%;
+    
+    
+}
+h1 {
+    margin-left: auto;
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+
+div{
+    position: absolute;
+    top: 40%;
+    left: 38%;
+    margin-top: -10%;
+    width: 25%;
+    height: 25%;
+
+}​
+
+button{
+    top: 70%;
+    left: 50%;
+    margin-left: auto;
+}
+
+.buttons{
+    top: 50%;
+    left: 0%;
+}
+.getBut{
+    top: 48%;
+    left: 38%;
+}
